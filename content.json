@@ -1,0 +1,431 @@
+{
+  "version": 2,
+  "business": {
+    "name": "Ganesha SPA",
+    "name_en": "Ganesha SPA Clinic",
+    "site_lang": "he",
+    "phone": "0506253335",
+    "phone_display": "050-625-3335",
+    "whatsapp": "972506253335",
+    "website": "https://www.instagram.com/elenagoldenhands/",
+    "rating": 5,
+    "reviews_count": 50,
+    "address_he": "רחוב בזל 34, תל אביב-יפו, 6274410",
+    "address_en": "Basel St 34, Tel Aviv-Yafo, 6274410",
+    "category_he": "קליניקת עיסוי וספא",
+    "category_en": "Massage & Spa Clinic",
+    "maps_url": "https://maps.google.com/?q=32.089707,34.7601603",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFBHA9jQrIFKLThXn-Vb60MvoJADkKtFjKH70ITnAsX9q_LYbJRcU4qGiakw5lUdmBnbc_14u6Dltn96XSURNA1pEn_D_DkdR9nLtOLmMXukCgp7X19GL9Sj5SsHn9FOQpfYUOurg=w408-h301-k-no",
+    "logo_emoji": "Sparkles",
+    "geo": {
+      "latitude": 32.089707,
+      "longitude": 34.7601603
+    },
+    "schema_type": "HealthAndBeautyBusiness",
+    "price_range": "$$",
+    "source_url": "https://maps.app.goo.gl/QBiRjYgVHsnxxZkn9",
+    "cache_key": "QBiRjYgVHsnxxZkn9"
+  },
+  "editToken": "60c9c31629ce1c41d61e12a31a02ca03",
+  "hours": [
+    {
+      "day_key": "sunday",
+      "day_he": "ראשון",
+      "day_en": "Sunday",
+      "hours_he": "10:00 - 21:00",
+      "hours_en": "10 am–9 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "monday",
+      "day_he": "שני",
+      "day_en": "Monday",
+      "hours_he": "10:00 - 21:00",
+      "hours_en": "10 am–9 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "tuesday",
+      "day_he": "שלישי",
+      "day_en": "Tuesday",
+      "hours_he": "10:00 - 21:00",
+      "hours_en": "10 am–9 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "wednesday",
+      "day_he": "רביעי",
+      "day_en": "Wednesday",
+      "hours_he": "10:00 - 21:00",
+      "hours_en": "10 am–9 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "thursday",
+      "day_he": "חמישי",
+      "day_en": "Thursday",
+      "hours_he": "10:00 - 21:00",
+      "hours_en": "10 am–9 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "friday",
+      "day_he": "שישי",
+      "day_en": "Friday",
+      "hours_he": "10:00 - 19:00",
+      "hours_en": "10 am–7 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "saturday",
+      "day_he": "שבת",
+      "day_en": "Saturday",
+      "hours_he": "סגור",
+      "hours_en": "Closed",
+      "is_open": false
+    }
+  ],
+  "design": {},
+  "sections": [
+    {
+      "id": "hero",
+      "variant": "H",
+      "visible": true,
+      "content": {
+        "badge": {
+          "he": "הקליניקה המובילה בתל אביב לעיסוי וטיפולי ספא עם דירוג 5 כוכבים ותחזוקה אישית מעולה",
+          "en": "Tel Aviv's top-rated spa clinic with 5-star service and meticulous, personalized care"
+        },
+        "subtitle": {
+          "he": "טיפולים מקצועיים בסביבה יוקרתית בלב השכונה שלך. מטפלים מנוסים, אווירה חמה, וחוויה מרגיעה שמשחררת כאבים ומתן שלווה",
+          "en": "Professional spa treatments in an upscale setting right in your neighborhood. Experienced practitioners, warm atmosphere, and therapeutic care that soothes pain and restores peace"
+        },
+        "available": {
+          "he": "פתוח כיום | התקשר או שלח הודעה",
+          "en": "Open today | Call or message us"
+        }
+      }
+    },
+    {
+      "id": "about",
+      "variant": "H",
+      "visible": true,
+      "content": {
+        "desc": {
+          "he": "Ganesha SPA הוא קליניקה מקצועית וחמה בלב תל אביב, המביאה חוויה יוקרתית של עיסוי וטיפולי ספא לשכונתך. המטפלים שלנו מעניקים תשומת לב אישית, מקצועיות גבוהה וטיפול קשוב שמשחרר כאבים, מתח ספורטיבי וממאיץ החלמה אמיתית. כל פרט מוקפד כדי שהחוויה תהיה נעימה, מרגיעה ומעוררת הנאה אמיתית.",
+          "en": "Ganesha SPA is a professional and welcoming clinic in the heart of Tel Aviv, bringing luxury spa and massage therapy to your neighborhood. Our practitioners provide personalized attention, high professionalism, and attentive care that relieves pain, sports tension, and accelerates true recovery. Every detail is meticulously crafted to ensure your experience is pleasant, calming, and truly enjoyable."
+        },
+        "years_value": {
+          "he": "50+",
+          "en": "50+"
+        }
+      }
+    },
+    {
+      "id": "services",
+      "variant": "",
+      "visible": true,
+      "content": {
+        "subtitle": {
+          "he": "מגוון טיפולים מקצועיים המותאמים לצרכיך, מעיסוי טיפולי ועד טיפולי ספא מהנים",
+          "en": "A full range of professional treatments tailored to your needs, from therapeutic massage to relaxing spa therapies"
+        },
+        "cta": {
+          "he": "בחר את הטיפול המתאים לך וקבע תור",
+          "en": "Choose your treatment and book an appointment"
+        }
+      },
+      "items": [
+        {
+          "id": "1",
+          "icon": "Waves",
+          "title": {
+            "he": "עיסוי טיפולי",
+            "en": "Therapeutic Massage"
+          },
+          "desc": {
+            "he": "עיסוי מקצועי וקשוב המשחרר כאבים ומתח, בידי מטפלים מנוסים המעניקים טיפול אישי לכל לקוח",
+            "en": "Professional therapeutic massage that relieves back pain and sports tension, delivered by experienced practitioners with personalized care"
+          }
+        },
+        {
+          "id": "2",
+          "icon": "Droplets",
+          "title": {
+            "he": "טיפולי ספא מוזלים",
+            "en": "Relaxation Spa Treatments"
+          },
+          "desc": {
+            "he": "חוויה מרגיעה ונעימה בסביבה יוקרתית, המעניקה שלווה וחידוש לגוף והנפש",
+            "en": "Rejuvenating spa experience in a serene, upscale setting that soothes both body and mind"
+          }
+        },
+        {
+          "id": "3",
+          "icon": "Wind",
+          "title": {
+            "he": "טיפולים מיוחדים",
+            "en": "Specialized Treatments"
+          },
+          "desc": {
+            "he": "טיפולים מותאמים לצרכים ספציפיים, עם הקפדה על פרטים וחוויה אישית מעולה",
+            "en": "Customized treatments tailored to individual needs with meticulous attention to detail and exceptional personal service"
+          }
+        },
+        {
+          "id": "4",
+          "icon": "Bath",
+          "title": {
+            "he": "טיפולי החלמה ספורטיבית",
+            "en": "Sports Recovery Therapy"
+          },
+          "desc": {
+            "he": "עיסוי וטיפולים ממוקדים לאתלטים ומטפלים פעילים, המשחררים כאבים וממאיצים החלמה",
+            "en": "Specialized recovery treatments for active individuals and athletes, designed to ease pain and accelerate healing"
+          }
+        },
+        {
+          "id": "5",
+          "icon": "Heater",
+          "title": {
+            "he": "סביבה יוקרתית ואווירה חמה",
+            "en": "Premium Ambiance & Warmth"
+          },
+          "desc": {
+            "he": "מקום יפה ומסודר בלב העיר, עם אווירה נעימה המהווה מקום מנוחה אמיתי",
+            "en": "A beautifully designed sanctuary in the heart of the city with a welcoming, tranquil atmosphere"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gallery",
+      "variant": "B",
+      "visible": true,
+      "content": {
+        "subtitle": {
+          "he": "גלריית התמונות שלנו — מקום יוקרתי וסביבה שמעניקה שלווה",
+          "en": "Our gallery—a premium space designed for tranquility and comfort"
+        }
+      },
+      "items": [
+        {
+          "url": "/images/photo-1.webp",
+          "thumb": "/images/photo-1.webp",
+          "source": "customer",
+          "alt": {
+            "he": "Ganesha SPA - תמונה 1",
+            "en": "Ganesha SPA - Photo 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reviews",
+      "variant": "H",
+      "visible": true,
+      "items": [
+        {
+          "author": "Arnonimous 00",
+          "rating": 5,
+          "text": {
+            "he": "מקום רמה גבוהה! המקום עצמו נראה ומרגיש נהדר, אווירה נעימה, הכל יפה, מטפולת נהדרות.\n\nA high-level place! The place itself looks and feels great, a pleasant atmosphere, everything is beautiful, great care.",
+            "en": "מקום רמה גבוהה! המקום עצמו נראה ומרגיש נהדר, אווירה נעימה, הכל יפה, מטפולת נהדרות.\n\nA high-level place! The place itself looks and feels great, a pleasant atmosphere, everything is beautiful, great care."
+          },
+          "date": "3 weeks ago",
+          "iso_date": "2026-04-10T08:53:23.863Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "הרצל זכריה",
+          "rating": 5,
+          "text": {
+            "he": "טיפול מקצועי נקי ומסודר",
+            "en": "טיפול מקצועי נקי ומסודר"
+          },
+          "date": "a month ago",
+          "iso_date": "2026-04-01T08:53:23.864Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Alejandro",
+          "rating": 5,
+          "text": {
+            "he": "Ganesha Spa הוא ללא ספק המקום הטוב ביותר בתל אביב. האווירה חמה, מרגיעה ונעימה מאוד. השירות מצוין מההתחלה ועד הסוף, והבנות בולטות במקצועיות, באדיבות ובהשקעה שלהן. הכול מוקפד כדי שהחוויה תהיה נוחה, מיוחדת ומהנה מאוד. מומלץ בחום.",
+            "en": "Ganesha Spa הוא ללא ספק המקום הטוב ביותר בתל אביב. האווירה חמה, מרגיעה ונעימה מאוד. השירות מצוין מההתחלה ועד הסוף, והבנות בולטות במקצועיות, באדיבות ובהשקעה שלהן. הכול מוקפד כדי שהחוויה תהיה נוחה, מיוחדת ומהנה מאוד. מומלץ בחום."
+          },
+          "date": "a month ago",
+          "iso_date": "2026-04-01T08:53:23.864Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "ofer gal",
+          "rating": 5,
+          "text": {
+            "he": "בלב העיר, קליניקה מקצועית שמקסים להכנס אליה עם שרות אישי ומצויין",
+            "en": "בלב העיר, קליניקה מקצועית שמקסים להכנס אליה עם שרות אישי ומצויין"
+          },
+          "date": "a month ago",
+          "iso_date": "2026-04-01T08:53:23.864Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "חגי והב",
+          "rating": 5,
+          "text": {
+            "he": "עיסוי ברמה מקצועית קשובה למטופל משחררת כאבים בגב ואימוני ספורט מאוד מאוד מומלץ היחידה שאני מוכן להניח את הגוף שלי לטיפול לכו תודו לי אחר כך...",
+            "en": "עיסוי ברמה מקצועית קשובה למטופל משחררת כאבים בגב ואימוני ספורט מאוד מאוד מומלץ היחידה שאני מוכן להניח את הגוף שלי לטיפול לכו תודו לי אחר כך..."
+          },
+          "date": "a month ago",
+          "iso_date": "2026-04-01T08:53:23.864Z",
+          "is_local_guide": true
+        },
+        {
+          "author": "Ranger Pro Israel",
+          "rating": 5,
+          "text": {
+            "he": "מומלץ בחום מקצועי ביותר",
+            "en": "מומלץ בחום מקצועי ביותר"
+          },
+          "date": "a month ago",
+          "iso_date": "2026-04-01T08:53:23.864Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "חיים ליס",
+          "rating": 5,
+          "text": {
+            "he": "אני אוהב עיסוי\nאבל אצל ילנה זאת חווית עיסוי שאין במקומות אחרים\nיחס חם ,חיוך , ומקצועיות ברמה הכי גבוהה\nממליץ בחום",
+            "en": "אני אוהב עיסוי\nאבל אצל ילנה זאת חווית עיסוי שאין במקומות אחרים\nיחס חם ,חיוך , ומקצועיות ברמה הכי גבוהה\nממליץ בחום"
+          },
+          "date": "a month ago",
+          "iso_date": "2026-04-01T08:53:23.864Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Niv Lazar",
+          "rating": 5,
+          "text": {
+            "he": "אחלה טיפולים, מקצועי ומרגיע",
+            "en": "אחלה טיפולים, מקצועי ומרגיע"
+          },
+          "date": "a month ago",
+          "iso_date": "2026-04-01T08:53:23.864Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "יהודה טסה",
+          "rating": 5,
+          "text": {
+            "he": "צוות מקצועי ומסור ממליץ",
+            "en": "צוות מקצועי ומסור ממליץ"
+          },
+          "date": "a month ago",
+          "iso_date": "2026-04-01T08:53:23.864Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "דוד יחזקאל",
+          "rating": 5,
+          "text": {
+            "he": "מקום מקוצעי  נקי מסודר ממליץ",
+            "en": "מקום מקוצעי  נקי מסודר ממליץ"
+          },
+          "date": "2 months ago",
+          "iso_date": "2026-03-02T08:53:23.864Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Светлана Полканова",
+          "rating": 5,
+          "text": {
+            "he": "Леночка, не могу не поблагодарить тебя за прекрасный массаж.\nС первого сеанса я поняла, что попала в надёжные руки .\nОт твоих волшебных ручек я получила не только оздоровление и снятие боли в пояснице, которая меня долго мучила, но и прекрасную релаксацию.\nОбстановка в твоём салоне, сделанная тобой с большой любовью, позволяет ещё больше усилить результат от твоих процедур. И я почувствовала это на себе, потому что смогла очень хорошо расслабиться.\nТеперь я твой постоянный клиент.\nСпасибо большое за новую меня. ❤️",
+            "en": "Леночка, не могу не поблагодарить тебя за прекрасный массаж.\nС первого сеанса я поняла, что попала в надёжные руки .\nОт твоих волшебных ручек я получила не только оздоровление и снятие боли в пояснице, которая меня долго мучила, но и прекрасную релаксацию.\nОбстановка в твоём салоне, сделанная тобой с большой любовью, позволяет ещё больше усилить результат от твоих процедур. И я почувствовала это на себе, потому что смогла очень хорошо расслабиться.\nТеперь я твой постоянный клиент.\nСпасибо большое за новую меня. ❤️"
+          },
+          "date": "6 months ago",
+          "iso_date": "2025-11-02T08:53:23.864Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Gitman",
+          "rating": 5,
+          "text": {
+            "he": "הגעתי למסז׳ שהיה מעולה!\nלנה הייתה מקצועית, יש לה ידיים מאוד חזקות, המסז׳ עזר מאוד, יצאתי כמו חדש\nתודה!",
+            "en": "הגעתי למסז׳ שהיה מעולה!\nלנה הייתה מקצועית, יש לה ידיים מאוד חזקות, המסז׳ עזר מאוד, יצאתי כמו חדש\nתודה!"
+          },
+          "date": "6 months ago",
+          "iso_date": "2025-11-02T08:53:23.864Z",
+          "is_local_guide": true
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "variant": "",
+      "visible": true,
+      "content": {
+        "subtitle": {
+          "he": "צרו קשר איתנו לקביעת תור או שאלות — אנו כאן בשביל הקהילה שלנו",
+          "en": "Contact us to book an appointment or ask any questions—we're here for our community"
+        },
+        "wa_hello": {
+          "he": "שלום! אני רוצה לקבוע תור לטיפול ב-Ganesha SPA",
+          "en": "Hi! I'd like to book an appointment at Ganesha SPA"
+        }
+      }
+    },
+    {
+      "id": "location",
+      "variant": "",
+      "visible": true
+    },
+    {
+      "id": "pricing",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "faq",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "team",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "before_after",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "video",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "menu",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "steps",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "stats",
+      "variant": "",
+      "visible": false,
+      "items": []
+    }
+  ]
+}

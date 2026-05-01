@@ -1,0 +1,11 @@
+{
+  "primary_color": "emerald",
+  "secondary_color": "teal",
+  "hero_gradient": "from-emerald-900 via-emerald-800 to-teal-900",
+  "contact_gradient": "from-teal-900 via-emerald-800 to-emerald-900",
+  "font_heading": "Playfair Display",
+  "font_body": "Inter",
+  "font_google_import": "@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;500;600&display=swap');",
+  "brand_personality": "Warm, professional, community-focused, premium yet welcoming",
+  "logo_emoji": "Sparkles"
+}
