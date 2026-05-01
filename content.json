@@ -85,11 +85,11 @@
     }
   ],
   "design": {
-    "color_primary": "violet",
-    "color_secondary": "purple",
-    "hero_gradient": "from-violet-950 via-purple-900 to-indigo-950",
-    "contact_gradient": "from-violet-950 to-purple-900",
-    "section_dark_bg": "#000000",
+    "color_primary": "orange",
+    "color_secondary": "rose",
+    "hero_gradient": "from-orange-950 via-rose-900 to-orange-900",
+    "contact_gradient": "from-orange-950 to-rose-900",
+    "section_dark_bg": "#431407",
     "body_bg": "#faf7f2"
   },
   "sections": [
