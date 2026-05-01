@@ -22,11 +22,10 @@
       "longitude": 34.7601603
     },
     "schema_type": "HealthAndBeautyBusiness",
-    "price_range": "$$",
+    "price_range": "$",
     "source_url": "https://maps.app.goo.gl/QBiRjYgVHsnxxZkn9",
     "cache_key": "QBiRjYgVHsnxxZkn9"
   },
-  "editToken": "60c9c31629ce1c41d61e12a31a02ca03",
   "hours": [
     {
       "day_key": "sunday",
@@ -85,7 +84,10 @@
       "is_open": false
     }
   ],
-  "design": {},
+  "design": {
+    "color_primary": "slate",
+    "color_secondary": "blue"
+  },
   "sections": [
     {
       "id": "hero",
@@ -103,6 +105,10 @@
         "available": {
           "he": "פתוח כיום | התקשר או שלח הודעה",
           "en": "Open today | Call or message us"
+        },
+        "cta_call": {
+          "he": "התקשר עכשיו2",
+          "en": "Call Now"
         }
       }
     },
